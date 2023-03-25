@@ -8,12 +8,6 @@ public class SumCalculator {
                 default -> (n * (n + 1)) / 2;
             };
         }
-//
-//    public static void main(String[] args) {
-//        int n = 10;
-//        int res = sum(n);
-//        System.out.println(res);
-//    }
 }
 
 
